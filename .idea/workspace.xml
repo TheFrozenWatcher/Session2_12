@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae67cb9e-32e9-4813-9f92-25f5785bd418" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HN_JV230313_BS_NguyenQuangHung/HN_JV230313_BS_NguyenQuangHung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex11/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex12/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex13/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex14/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex15/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex2/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex3/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex3/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex4/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex6/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex7/DemergingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex7/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex8/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex9/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session 1/Session 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session 1/Session 1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bR6TtL3Z841IPvit7sI7egC47Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemergingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HUNG/IdeaProjects/Module 2 JAVA/Session 2_12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HUNG/IdeaProjects/Module 2 JAVA/Session 2_12/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Ex12">
+    <configuration name="DemergingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex7.DemergingSort" />
+      <module name="Session 2_12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Ex7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex10.Ex10" />
+      <module name="Session 2_12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Ex10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex12.Ex12" />
+      <module name="Session 2_12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Ex12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex8.Ex8" />
+      <module name="Session 2_12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Ex8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex9.Ex9" />
+      <module name="Session 2_12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Ex9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex12" />
+        <item itemvalue="Application.Ex10" />
+        <item itemvalue="Application.Ex9" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.DemergingSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae67cb9e-32e9-4813-9f92-25f5785bd418" name="Changes" comment="" />
+      <created>1706165556677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706165556677</updated>
+      <workItem from="1706165558275" duration="11287000" />
+      <workItem from="1706177621289" duration="1079000" />
+      <workItem from="1706229557629" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
